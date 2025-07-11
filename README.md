@@ -122,13 +122,9 @@ ERBATMAN BTLO Writeup
 YouTube on BTLO
 
 
-
-
 ✨ Author
-
 Rasheedah Haruna
 Beginner Cybersecurity Enthusiast | Log Analyst | PrivEsc Explorer
-📬 Connect with me on LinkedIn(Haruna Rasheedah)
-
+📬 Connect with me on LinkedIn(www.linkedin.com/in/haruna-rasheedah-62622730b)
 
 🛡️ Educational Purpose Only — Always practice ethical hacking in legal environments.
