@@ -66,18 +66,11 @@ This method is listed on GTFOBins, confirming the privilege escalation technique
 📸 Screenshots
 
 This folder contains supporting screenshots:
+Check this in the file section.
 
-linexploit-output.png
-
-suid-python-root.png
-
-tcpdump-use.png
-
-final-whoami-root.png
 
 
 📁 Folder: /screenshots/
-
 
 
 
